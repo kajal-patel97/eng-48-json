@@ -21,8 +21,8 @@ car_data_json_string = json.dumps(car_dictionary)
 #json.dump --> writes json to a file
 #the new file will be created 'new_json_file.json'
 
-# with open('new_json_file.json', 'w') as jsonfile:
-#     json.dump(car_dictionary, jsonfile)
+with open('new_json_file.json', 'w') as jsonfile:
+    json.dump(car_dictionary, jsonfile)
 
 
 #json.load(jsonfile) ---> dictionary
