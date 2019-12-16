@@ -19,6 +19,8 @@ Make a small programme that requests 3 postcodes and returns something like
    > 2 - Postcode: xyzpto2 with nhs location at: xyx
    > 3 - (....)
 '''
+- you should also create code to get out the long and lat 
+- these should all be in fucntions 
 
 
 ##Extra info
